@@ -1,0 +1,49 @@
+.container{
+    color: white;
+}
+p{
+    font-family: cursive;
+}
+.heading{
+    color: white;
+    text-shadow: 2px 4px 2px violet;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.headin{
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+    text-shadow:2px 4px 2px pink; ;
+}
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+
+a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.previous {
+    margin-top: 100PX;
+    margin-left: 70px;
+    margin-right: 100px;
+  background-color: green;
+  color: black;
+   border-radius: 20%;
+
+}
+
+.next {
+    
+  background-color: green;
+  color: white;
+   border-radius: 20%;
+}
+
+.round {
+  border-radius: 30%;
+}
